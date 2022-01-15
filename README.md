@@ -1,7 +1,7 @@
 # Trinkerr Backend Interview
 
 ## Back to School
-Suppose you are given 2 strings which will include digits from 0-9 and the string can be of any length. You need to add those 2 strings and return the output as number. You need to do this as efficiently as possible. Again emphasizing on the point that the string can be of any length.
+Suppose you are given 2 strings which will include digits from 0-9 and the string can be of any length. You need to add those 2 strings as `numbers` and return the output as string. You need to do this as efficiently as possible. Again emphasizing on the point that the string can be of any length.
 
 `Example-1`
 
